@@ -13,15 +13,15 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(212, 79%, 40%);
+    background-color: hsl(0, 0%, 100%);
     }
     h1 { 
-      background-color: #080a7d;
-      color: aqua;
+      background-color: #7d0808;
+      color: rgb(15, 15, 15);
     }
   
   .calculator {
-  border: 2px solid hsl(25, 88%, 45%);
+  border: 2px solid hsl(25, 100%, 19%);
   width: 800px; /* Largura aumentada para 800 pixels */
   height: 600px; /* Altura aumentada para 600 pixels */
   margin: 0 auto; /* Centraliza a calculadora horizontalmente na página */
@@ -33,7 +33,7 @@
     }
     
   .number {
-    background-color: #ef23d0; /* Cor de fundo azul */
+    background-color: #f7f7f7; /* Cor de fundo azul */
     color: hsl(108, 94%, 49%); /* Cor do texto branca */
   }
   
